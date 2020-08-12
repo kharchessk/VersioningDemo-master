@@ -20,8 +20,7 @@
         <connection>scm:git:git@github.com:kharchessk/VersioningDemo-master.git</connection>
         <developerConnection>scm:git:git@github.com:kharchessk/VersioningDemo-master.git</developerConnection>
         <url>https://github.com/kharchessk/VersioningDemo-master</url>
-          <tag>HEAD</tag>
-      <!--   <tag>@{project.version}</tag> -->
+        <tag>@{project.version}</tag>
         
         
     </scm>
